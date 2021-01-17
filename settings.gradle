@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "recyclerview_and_cardview"
